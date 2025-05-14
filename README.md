@@ -9,7 +9,7 @@
         <h3>🛠️ Open for Opportunities:</h3>
         <p>Currently seeking new challenges in React Native development. If you're looking for a motivated developer to join your team or have an exciting project in mind, let's connect and discuss how I can contribute to your success!</p>
         <h2>📫 How to Reach Me:</h2>
-        <p>Feel free to reach out to me at <a href="mailto:darshanlukhi28@gmail.com">darshanlukhi28@gmail.com</a> for collaboration opportunities or any inquiries. I'm always open to discussing new ideas and projects!</p>
+        <p>Feel free to reach out to me at <a href="mailto:darshanlukhi2811@gmail.com">darshanlukhi2811@gmail.com</a> for collaboration opportunities or any inquiries. I'm always open to discussing new ideas and projects!</p>
       <p align="left">
 </p>
 

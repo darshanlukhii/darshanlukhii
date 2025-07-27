@@ -5,7 +5,7 @@
         <h2 style="font-size: 24px;">🚀 Welcome to my GitHub profile! 👋</h2>
         <p>Passionate Mobile App Developer | React Native </p>
         <p>👋 Hey there, I'm Darshan Lukhi,</p>
-        <p>With 3 years of hands-on experience in Mobile Application Development, I'm dedicated to crafting exceptional mobile experiences that delight users. My journey in the tech world has been driven by my passion for innovation and problem-solving.</p>
+        <p>With 3.5 years of hands-on experience in Mobile Application Development, I'm dedicated to crafting exceptional mobile experiences that delight users. My journey in the tech world has been driven by my passion for innovation and problem-solving.</p>
         <h3>🛠️ Open for Opportunities:</h3>
         <p>Currently seeking new challenges in React Native development. If you're looking for a motivated developer to join your team or have an exciting project in mind, let's connect and discuss how I can contribute to your success!</p>
         <h2>📫 How to Reach Me:</h2>
